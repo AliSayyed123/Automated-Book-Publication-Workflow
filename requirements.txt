@@ -1,0 +1,8 @@
+playwright
+beautifulsoup4
+transformers
+torch
+chromadb
+sentence-transformers
+fastapi
+uvicorn
