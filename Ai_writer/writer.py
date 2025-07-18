@@ -1,9 +1,8 @@
-# ai_writer/writer.py
 from transformers import pipeline
 
 def spin_text(text: str) -> str:
     paraphraser = pipeline("text2text-generation", model="google/flan-t5-base")
-    chunks = text.split('\n\n')[:3]  # Limit to first 3 paragraphs
+    chunks = text.split('\n\n')[:3]  #Only 3 paragraphs
     spun = ""
 
     for i, chunk in enumerate(chunks):
