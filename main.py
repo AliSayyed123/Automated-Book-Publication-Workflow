@@ -1,4 +1,3 @@
-# main.py
 from Scraping.fetcher import fetch_chapter
 from Ai_writer.writer import spin_text
 from Ai_writer.reviewer import review_text
