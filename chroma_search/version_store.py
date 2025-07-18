@@ -1,4 +1,3 @@
-# chroma_search/version_store.py
 import chromadb
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
 
