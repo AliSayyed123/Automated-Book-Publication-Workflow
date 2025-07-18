@@ -1,5 +1,3 @@
-# rl/reward_model.py
-
 def compute_reward(original: str, spun: str, human_feedback: str = None):
     reward = 0
     if human_feedback:
