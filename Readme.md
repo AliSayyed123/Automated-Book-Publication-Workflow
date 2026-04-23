@@ -125,19 +125,6 @@ URL = "https://your-target-chapter-url.com"
 
 ---
 
-## 🔮 Roadmap
-
-- [ ] Swap stub RL trainer with a real RLHF training loop
-- [ ] Add a web-based human editing interface (FastAPI + frontend)
-- [ ] Expand ChromaDB integration for full semantic chapter search
-- [ ] Support batch processing of multiple chapters
-- [ ] Add export to EPUB / PDF format
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 1. Fork the repo
 2. Create a feature branch (`git checkout -b feature/your-feature`)
@@ -153,6 +140,4 @@ This project is open source. Add a `LICENSE` file to specify terms.
 
 ---
 
-## 👤 Author
 
-**Ali Sayyed** — [@AliSayyed123](https://github.com/AliSayyed123)
